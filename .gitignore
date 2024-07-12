@@ -3,5 +3,4 @@ node_modules
 dist
 server/config/config.json
 .env
-
 test
